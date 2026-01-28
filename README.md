@@ -41,3 +41,12 @@ This project was developed as part of the Robot Operating Systems coursework.
 1. Build Docker image:
 ```bash
 docker build . -t turtlebot3_container
+---
+
+## Author
+
+Chandrika Tirukkovalluri  
+Matriculation Number: 12502910  
+Technische Hochschule Deggendorf – Campus Cham  
+
+---
